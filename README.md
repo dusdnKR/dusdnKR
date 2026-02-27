@@ -1,6 +1,7 @@
 <div align="center">
 
 # Yeonwoo Kim
+
 [![Email](https://img.shields.io/badge/dusdn@khu.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dusdn@khu.ac.kr)&nbsp;
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.co.kr/citations?user=1-BaZH0AAAAJ&hl=ko)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR)&nbsp;
@@ -16,7 +17,7 @@ Graduate Researcher @ [**AIMS Lab**](https://sites.google.com/view/khu-aims/home
 
 ## About Me
 
-I am a graduate researcher at [AIMS Lab](https://sites.google.com/view/khu-aims/home/), Kyung Hee University, where I have been conducting research since August 2023 (initially as an undergraduate researcher). My work focuses on **Large Language Models**, **Multimodal AI**, and **Medical AI** — specifically designing agentic AI systems and applying them to healthcare and user experience domains. I have authored and co-authored papers in IEEE conferences and journals including *Psychological Medicine* and *Journal of Medical Systems*.
+I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been conducting research since August 2023 (initially as an undergraduate researcher). My work focuses on **Large Language Models**, **Multimodal AI**, and **Medical AI** — specifically designing agentic AI systems and applying them to healthcare and user experience domains. I have authored and co-authored papers in IEEE conferences and journals including *Psychological Medicine* and *Journal of Medical Systems*.
 
 &nbsp;
 
@@ -24,7 +25,7 @@ I am a graduate researcher at [AIMS Lab](https://sites.google.com/view/khu-aims/
 
 <div align="center">
 
-`Large Language Models` · `Multimodal LLMs` · `Medical AI` · `Agentic AI` · `Natural Language Processing` · `User Experience`
+`Large Language Models` · `Multimodal LLMs` · `Medical AI` · `Agentic AI` · `User Experience`
 
 </div>
 
