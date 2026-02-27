@@ -105,9 +105,7 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 
 ---
 
-### Teaching
+### Teaching Assistant (TA)
 
-| Course | Role | Highlight |
-|--------|------|-----------|
-| **Machine Learning** | Teaching Assistant |  |
-| **Data Science & Visualization** | Teaching Assistant | Designed & delivered a 3-session *LLM from Scratch* hands-on workshop ([materials](https://github.com/dusdnKR/SWCON425)) |
+- **[SWCON253] Machine Learning**  
+- **[SWCON425] Data Science & Visualization** — Designed & delivered a 3-session *LLM from Scratch* hands-on workshop ([materials](https://github.com/dusdnKR/SWCON425))
