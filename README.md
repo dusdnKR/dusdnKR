@@ -1,17 +1,16 @@
 <div align="center">
 
-# Yeonwoo Kim
-
-**M.S. Student · AI & Medical Informatics**
-
-Graduate Researcher @ [**AIMS Lab**](https://sites.google.com/view/khu-aims/home/), Kyung Hee University, Advised by Prof. Won Hee Lee
-
-&nbsp;
 
 [![Email](https://img.shields.io/badge/dusdn@khu.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dusdn@khu.ac.kr)&nbsp;
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.co.kr/citations?user=1-BaZH0AAAAJ&hl=ko)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR)&nbsp;
 [![Lab](https://img.shields.io/badge/AIMS%20Lab-0A66C2?style=flat-square&logo=google&logoColor=white)](https://sites.google.com/view/khu-aims/home/)
+
+# Yeonwoo Kim
+
+**M.S. Student · AI & Medical Informatics**
+
+Graduate Researcher @ [**AIMS Lab**](https://sites.google.com/view/khu-aims/home/), Kyung Hee University, Advised by Prof. Won Hee Lee
 
 </div>
 
@@ -25,8 +24,8 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 
 ### Education
 
-**M.S.** in Software Convergence — Kyung Hee University `Mar 2025 — Present`  
-**B.S.** in Software Convergence — Kyung Hee University `Mar 2021 — Feb 2025`
+🎓️ **M.S.** in Software Convergence — Kyung Hee University `Mar 2025 — Present`  
+🎓️ **B.S.** in Software Convergence — Kyung Hee University `Mar 2021 — Feb 2025`
 
 ---
 
@@ -39,12 +38,9 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 
 ### Tech Stack
 
-**ML / DL** &nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-**Languages** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-
-**Data** &nbsp; ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
+**ML / DL** &nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)  
+**Languages** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)  
+**Data** &nbsp; ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
 **Tools** &nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -103,15 +99,18 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 
 ### Patents
 
-1. Multimodal User Experience Evaluation Analysis Tool `C-2023-053985`
-2. Interactive Dashboard Based on Multimodal Data Analysis for UX Evaluation `C-2023-044704`
-3. Personalized UX Questionnaire Generation Program Using LLM `C-2025-042581`
-4. EEG-Based UX Questionnaire Generation Program Using Multi-Agent LLM `C-2025-042582`
+| # | Title | Reg. No. |
+|:-:|-------|:--------:|
+| 1 | Multimodal User Experience Evaluation Analysis Tool | `C-2023-053985` |
+| 2 | Interactive Dashboard Based on Multimodal Data Analysis for UX Evaluation | `C-2023-044704` |
+| 3 | Personalized UX Questionnaire Generation Program Using LLM | `C-2025-042581` |
+| 4 | EEG-Based UX Questionnaire Generation Program Using Multi-Agent LLM | `C-2025-042582` |
 
 ---
 
 ### Teaching
 
-- **Machine Learning** — Teaching Assistant
-- **Data Science & Visualization** — Teaching Assistant  
-  Designed & delivered a 3-session *LLM from Scratch* hands-on workshop ([materials](https://github.com/dusdnKR/SWCON425))
+| Course | Role | Highlight |
+|--------|------|-----------|
+| **Machine Learning** | Teaching Assistant |  |
+| **Data Science & Visualization** | Teaching Assistant | Designed & delivered a 3-session *LLM from Scratch* hands-on workshop ([materials](https://github.com/dusdnKR/SWCON425)) |
