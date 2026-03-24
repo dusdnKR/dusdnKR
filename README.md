@@ -13,6 +13,12 @@ Graduate Researcher @ [**AIMS Lab**](https://sites.google.com/view/khu-aims/home
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR)&nbsp;
 [![Lab](https://img.shields.io/badge/AIMS%20Lab-0A66C2?style=flat-square&logo=google&logoColor=white)](https://sites.google.com/view/khu-aims/home/)
 
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dusdnKR&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dusdnKR&layout=compact&theme=default&hide_border=true)
+
 </div>
 
 ---
@@ -82,7 +88,10 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 3. Lee, J., Han, J., Kim, M., **Kim, Y.**, Kim, T. S., & Lee, W. H. (2025). The Impact of MRI Data Harmonization on Brain Age Prediction. In *IEEE ICAIIC 2025* (pp. 348–352). IEEE.
 4. **Kim, Y.**, Lee, M. J., & Lee, W. H. (2025). EEG-Informed Adaptive User Experience Questionnaire Generation with Multi-Agent Large Language Models. In *IEEE/IEIE ICCE-Asia 2025* (pp. 1–5). IEEE.
 
-#### Domestic (Korea)
+<details>
+<summary><b>Domestic (Korea)</b> — 7 publications at KSC</summary>
+
+&nbsp;
 
 1. **김연우**, 한주혁, 김민재, 박지후, & 이원희. (2024). 의료 영상 보고서 검색을 위한 정렬이 필요 없는 멀티모달 검색 증강 생성 방법. *한국정보과학회 학술발표논문집*, 2227–2229.
 2. 온유나, 한주혁, 김민재, **김연우**, & 이원희. (2024). 한국어 문서의 표 텍스트 정보 추출을 위한 표 인식 도구의 비교 분석. *한국정보과학회 학술발표논문집*, 1940–1942.
