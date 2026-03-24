@@ -82,10 +82,7 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 3. Lee, J., Han, J., Kim, M., **Kim, Y.**, Kim, T. S., & Lee, W. H. (2025). The Impact of MRI Data Harmonization on Brain Age Prediction. In *IEEE ICAIIC 2025* (pp. 348–352). IEEE.
 4. **Kim, Y.**, Lee, M. J., & Lee, W. H. (2025). EEG-Informed Adaptive User Experience Questionnaire Generation with Multi-Agent Large Language Models. In *IEEE/IEIE ICCE-Asia 2025* (pp. 1–5). IEEE.
 
-<details>
-<summary><b>Domestic (Korea)</b> — 7 publications at KSC</summary>
-
-&nbsp;
+#### Domestic (Korea)
 
 1. **김연우**, 한주혁, 김민재, 박지후, & 이원희. (2024). 의료 영상 보고서 검색을 위한 정렬이 필요 없는 멀티모달 검색 증강 생성 방법. *한국정보과학회 학술발표논문집*, 2227–2229.
 2. 온유나, 한주혁, 김민재, **김연우**, & 이원희. (2024). 한국어 문서의 표 텍스트 정보 추출을 위한 표 인식 도구의 비교 분석. *한국정보과학회 학술발표논문집*, 1940–1942.
@@ -119,9 +116,7 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 
 ---
 
-### Teaching
+### Teaching Assistant (TA)
 
-| Course | Role | Highlight |
-|--------|------|-----------|
-| **Machine Learning** | Teaching Assistant | |
-| **Data Science & Visualization** | Teaching Assistant | Designed & delivered a 3-session *LLM from Scratch* hands-on workshop ([materials](https://github.com/dusdnKR/SWCON425)) |
+- **[SWCON253] Machine Learning**  
+- **[SWCON425] Data Science & Visualization** — Designed & delivered a 3-session *LLM from Scratch* hands-on workshop ([materials](https://github.com/dusdnKR/SWCON425))
