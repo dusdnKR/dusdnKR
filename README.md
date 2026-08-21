@@ -38,7 +38,7 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 |------|-------------|--------|
 | 🌐 **Visiting Researcher** | [Global AI Frontier Lab](https://www.nyu.edu/research/research-centers-and-institutes/global-ai-frontier-lab.html), New York University | May 2026 — Jul 2026 |
 | 🔬 **Graduate Researcher** | [AIMS Lab](https://sites.google.com/view/khu-aims/home/), Kyung Hee University | Mar 2025 — Present |
-| 💻 **Software Engineer** | [edub.kr](https://www.edub.kr), ㈜코에듀지피티 | Sep 2023 — Present |
+| 🤖 **LLM Engineer** | [edub.kr](https://www.edub.kr), ㈜코에듀지피티 | Sep 2023 — Present |
 | 🔬 **Undergraduate Researcher** | [AIMS Lab](https://sites.google.com/view/khu-aims/home/), Kyung Hee University | Aug 2023 — Mar 2025 |
 
 ---
