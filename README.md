@@ -36,8 +36,10 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 
 | Role | Organization | Period |
 |------|-------------|--------|
-| 🏛 **Visiting Researcher** | [Global AI Frontier Lab](https://www.nyu.edu/research/research-centers-and-institutes/global-ai-frontier-lab.html), New York University | May 2026 — Jul 2026 |
-| 🔬 **Undergraduate / Graduate Researcher** | [AIMS Lab](https://sites.google.com/view/khu-aims/home/), Kyung Hee University | Aug 2023 — Present |
+| 🌐 **Visiting Researcher** | [Global AI Frontier Lab](https://www.nyu.edu/research/research-centers-and-institutes/global-ai-frontier-lab.html), New York University | May 2026 — Jul 2026 |
+| 🔬 **Graduate Researcher** | [AIMS Lab](https://sites.google.com/view/khu-aims/home/), Kyung Hee University | Mar 2025 — Present |
+| 💻 **Software Engineer** | [edub.kr](https://www.edub.kr), ㈜코에듀지피티 | Sep 2023 — Present |
+| 🔬 **Undergraduate Researcher** | [AIMS Lab](https://sites.google.com/view/khu-aims/home/), Kyung Hee University | Aug 2023 — Mar 2025 |
 
 ---
 
@@ -70,11 +72,6 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 
 ### Publications
 
-#### International Journal
-
-1. Joo, S. W., Lee, J., Han, J., Kim, M., **Kim, Y.**, Lee, H., ... & Lee, W. H. (2025). Disparities in accelerated brain aging in recent-onset and chronic schizophrenia. *Psychological Medicine*, *55*, e60.
-2. Han, J., Kim, M., **Kim, Y.**, & Lee, W. H. (2025). Self-Reflective Chest X-Ray Report Generation with Clinical-Aware Detection and Multilevel Readability. *Journal of Medical Systems*, *49*(1), 190.
-
 #### International Conference
 
 1. Jo, H., Lee, J., Park, H. W., Kim, M., **Kim, Y.**, & Lee, W. H. (2023). Developing an Integrated Dashboard to Analyze Multimodal Data for User Experience Evaluation. In *IEEE ICCE-Asia 2023* (pp. 1–4). IEEE.
@@ -84,7 +81,12 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 5. ⭐ **Kim, Y.**, & Lee, W. H. (2026). Anatomy-Aware Masked Image Modeling for Self-Supervised Learning on 3D Brain MRI. In *9th Annual Conference on Cognitive Computational Neuroscience (CCN 2026)*. [[Code]](https://github.com/dusdnKR/anatomy-aware-mim)
 6. *Beyond Visual Realism: The Neuro-Fidelity Index for Validating Geometric Integrity in Synthetic Brain MRI*. To appear in *MICCAI Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI 2026)*.
 
-#### Domestic Conference (Korea)
+#### International Journal
+
+1. Joo, S. W., Lee, J., Han, J., Kim, M., **Kim, Y.**, Lee, H., ... & Lee, W. H. (2025). Disparities in accelerated brain aging in recent-onset and chronic schizophrenia. *Psychological Medicine*, *55*, e60.
+2. Han, J., Kim, M., **Kim, Y.**, & Lee, W. H. (2025). Self-Reflective Chest X-Ray Report Generation with Clinical-Aware Detection and Multilevel Readability. *Journal of Medical Systems*, *49*(1), 190.
+
+#### Domestic Conference
 
 1. ⭐ **김연우**, 한주혁, 김민재, 박지후, & 이원희. (2024). 의료 영상 보고서 검색을 위한 정렬이 필요 없는 멀티모달 검색 증강 생성 방법. *한국정보과학회 학술발표논문집*, 2227–2229. ![🏆 KCC 2024 학부생부문 장려상](https://img.shields.io/badge/🏆%20KCC%202024%20학부생부문%20장려상-FFD700?style=flat-square)
 2. 온유나, 한주혁, 김민재, **김연우**, & 이원희. (2024). 한국어 문서의 표 텍스트 정보 추출을 위한 표 인식 도구의 비교 분석. *한국정보과학회 학술발표논문집*, 1940–1942.
