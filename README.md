@@ -10,7 +10,7 @@ Graduate Researcher @ [**AIMS Lab**](https://sites.google.com/view/khu-aims/home
 
 [![Email](https://img.shields.io/badge/dusdn@khu.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dusdn@khu.ac.kr)&nbsp;
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.co.kr/citations?user=1-BaZH0AAAAJ&hl=ko)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR)&nbsp;
 [![Lab](https://img.shields.io/badge/AIMS%20Lab-0A66C2?style=flat-square&logo=google&logoColor=white)](https://sites.google.com/view/khu-aims/home/)
 
 </div>
@@ -75,10 +75,10 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 #### International Conference
 
 1. Jo, H., Lee, J., Park, H. W., Kim, M., **Kim, Y.**, & Lee, W. H. (2023). Developing an Integrated Dashboard to Analyze Multimodal Data for User Experience Evaluation. In *IEEE ICCE-Asia 2023* (pp. 1–4). IEEE.
-2. ⭐ **Kim, Y.**, Lee, J., Han, J. H., Kim, M., Lee, H., & Lee, W. H. (2024). Agentic LLM Workflows for Personalized User Experience Questionnaire Generation. In *IEEE ICCE-Asia 2024* (pp. 1–4). IEEE. [![dusdnKR/UEQ-mLLM](https://img.shields.io/badge/dusdnKR%2FUEQ--mLLM-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/UEQ-mLLM)
+2. ⭐ **Kim, Y.**, Lee, J., Han, J. H., Kim, M., Lee, H., & Lee, W. H. (2024). Agentic LLM Workflows for Personalized User Experience Questionnaire Generation. In *IEEE ICCE-Asia 2024* (pp. 1–4). IEEE. [![dusdnKR/UEQ-mLLM](https://img.shields.io/badge/dusdnKR%2FUEQ--mLLM-3a3a3a?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/UEQ-mLLM)
 3. Lee, J., Han, J., Kim, M., **Kim, Y.**, Kim, T. S., & Lee, W. H. (2025). The Impact of MRI Data Harmonization on Brain Age Prediction. In *IEEE ICAIIC 2025* (pp. 348–352). IEEE.
 4. ⭐ **Kim, Y.**, Lee, M. J., & Lee, W. H. (2025). EEG-Informed Adaptive User Experience Questionnaire Generation with Multi-Agent Large Language Models. In *IEEE/IEIE ICCE-Asia 2025* (pp. 1–5). IEEE.
-5. ⭐ **Kim, Y.**, & Lee, W. H. (2026). Anatomy-Aware Masked Image Modeling for Self-Supervised Learning on 3D Brain MRI. In *9th Annual Conference on Cognitive Computational Neuroscience (CCN 2026)*. [![dusdnKR/anatomy-aware-mim](https://img.shields.io/badge/dusdnKR%2Fanatomy--aware--mim-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/anatomy-aware-mim)
+5. ⭐ **Kim, Y.**, & Lee, W. H. (2026). Anatomy-Aware Masked Image Modeling for Self-Supervised Learning on 3D Brain MRI. In *9th Annual Conference on Cognitive Computational Neuroscience (CCN 2026)*. [![dusdnKR/anatomy-aware-mim](https://img.shields.io/badge/dusdnKR%2Fanatomy--aware--mim-3a3a3a?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/anatomy-aware-mim)
 6. *Beyond Visual Realism: The Neuro-Fidelity Index for Validating Geometric Integrity in Synthetic Brain MRI*. To appear in *MICCAI Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI 2026)*.
 
 #### International Journal
@@ -111,6 +111,6 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 
 ### Teaching Assistant (TA)
 
-- **[SWCON253] 기계학습 (Machine Learning)** ![2025-1](https://img.shields.io/badge/2025--1-555555?style=flat-square)
-- **[Global Collaborative Program] AI and Robotics** ![2025 Summer](https://img.shields.io/badge/2025%20Summer-555555?style=flat-square)
-- **[SWCON425] 데이터사이언스및시각화 (Data Science & Visualization)** Designed, developed & delivered a 3-session Transformer workshop ![2025-2](https://img.shields.io/badge/2025--2-555555?style=flat-square) [![dusdnKR/SWCON425](https://img.shields.io/badge/dusdnKR%2FSWCON425-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/SWCON425)
+- **[SWCON253] 기계학습 (Machine Learning)** ![2025-1](https://img.shields.io/badge/2025--1-6b6b6b?style=flat-square)
+- **[Global Collaborative Program] AI and Robotics** ![2025 Summer](https://img.shields.io/badge/2025%20Summer-6b6b6b?style=flat-square)
+- **[SWCON425] 데이터사이언스및시각화 (Data Science & Visualization)** Designed, developed & delivered a 3-session Transformer workshop ![2025-2](https://img.shields.io/badge/2025--2-6b6b6b?style=flat-square) [![dusdnKR/SWCON425](https://img.shields.io/badge/dusdnKR%2FSWCON425-3a3a3a?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/SWCON425)
