@@ -45,7 +45,7 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 
 ### Tech Stack
 
-| Category | Badges |
+| Category | |
 |----------|--------|
 | **ML / DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
@@ -111,5 +111,6 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 
 ### Teaching Assistant (TA)
 
-- **[SWCON253] Machine Learning**  
-- **[SWCON425] Data Science & Visualization** — Designed & delivered a 3-session *LLM from Scratch* hands-on workshop [![dusdnKR/SWCON425](https://img.shields.io/badge/dusdnKR%2FSWCON425-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/SWCON425)
+- **[SWCON253] 기계학습 (Machine Learning)** ![2025-1](https://img.shields.io/badge/2025--1-555555?style=flat-square)
+- **[Global Collaborative Program] AI and Robotics** ![2025 Summer](https://img.shields.io/badge/2025%20Summer-555555?style=flat-square)
+- **[SWCON425] 데이터사이언스및시각화 (Data Science & Visualization)** Designed, developed & delivered a 3-session Transformer workshop ![2025-2](https://img.shields.io/badge/2025--2-555555?style=flat-square) [![dusdnKR/SWCON425](https://img.shields.io/badge/dusdnKR%2FSWCON425-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/SWCON425)
