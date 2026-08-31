@@ -113,4 +113,4 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 
 - **[SWCON253] 기계학습 (Machine Learning)** ![2025-1](https://img.shields.io/badge/2025--1-6b6b6b?style=flat-square)
 - **[Global Collaborative Program] AI and Robotics** ![2025 Summer](https://img.shields.io/badge/2025%20Summer-6b6b6b?style=flat-square)
-- **[SWCON425] 데이터사이언스및시각화 (Data Science & Visualization)** Designed, developed & delivered a 3-session Transformer workshop ![2025-2](https://img.shields.io/badge/2025--2-6b6b6b?style=flat-square) [![dusdnKR/SWCON425](https://img.shields.io/badge/dusdnKR%2FSWCON425-3a3a3a?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/SWCON425)
+- **[SWCON425] 데이터사이언스및시각화 (Data Science & Visualization)** Designed, developed & delivered a 3-session Transformer workshop ![2025-2](https://img.shields.io/badge/2025--2-6b6b6b?style=flat-square) ![2026-2](https://img.shields.io/badge/2026--2-6b6b6b?style=flat-square) [![dusdnKR/SWCON425](https://img.shields.io/badge/dusdnKR%2FSWCON425-3a3a3a?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/SWCON425)
