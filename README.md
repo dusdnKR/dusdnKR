@@ -56,17 +56,7 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 
 ### Projects
 
-**KoEDUGPT** — [edub.kr](https://www.edub.kr)
-
-> GPT-powered chatbot providing accurate, up-to-date information about South Korea's college admission system.
-
-| | |
-|---|---|
-| **Role** | Founding member (Sep 2023) → Sole maintainer & developer (present) |
-| **Scope** | End-to-end feature development, deployment, and maintenance as a one-person operation |
-| **Recent features** | File attachment support, web-search-augmented answer generation, etc. |
-| **Stack** | Python, Flask / FastAPI, OpenAI GPT API, Google Custom Search API |
-| **Coverage** | [Donga Education News](https://edu.donga.com/news/articleView.html?idxno=97784) |
+**KoEDUGPT** — GPT-powered chatbot providing accurate, up-to-date information about South Korea's college admission system, [edub.kr](https://www.edub.kr). Founding member (Sep 2023) → sole maintainer & developer (present). [![dusdnKR/koedugpt](https://img.shields.io/badge/dusdnKR%2Fkoedugpt-404040?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/koedugpt)
 
 ---
 
