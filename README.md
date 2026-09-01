@@ -69,7 +69,8 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 3. Lee, J., Han, J., Kim, M., **Kim, Y.**, Kim, T. S., & Lee, W. H. (2025). The Impact of MRI Data Harmonization on Brain Age Prediction. In *IEEE ICAIIC 2025* (pp. 348–352). IEEE.
 4. ⭐ **Kim, Y.**, Lee, M. J., & Lee, W. H. (2025). EEG-Informed Adaptive User Experience Questionnaire Generation with Multi-Agent Large Language Models. In *IEEE/IEIE ICCE-Asia 2025* (pp. 1–5). IEEE. [![🔗 Poster](https://img.shields.io/badge/🔗%20Poster-4568A0?style=flat-square)](<poster/[ICCE-Asia 2025] EEG-Informed Adaptive User Experience Questionnaire Generation with Multi-Agent Large Language Models.pdf>)
 5. ⭐ **Kim, Y.**, & Lee, W. H. (2026). Anatomy-Aware Masked Image Modeling for Self-Supervised Learning on 3D Brain MRI. In *9th Annual Conference on Cognitive Computational Neuroscience (CCN 2026)*. [![🔗 Poster](https://img.shields.io/badge/🔗%20Poster-4568A0?style=flat-square)](<poster/[CCN 2026] Anatomy-Aware Masked Image Modeling for Self-Supervised Learning on 3D Brain MRI.pdf>) [![dusdnKR/anatomy-aware-mim](https://img.shields.io/badge/dusdnKR%2Fanatomy--aware--mim-404040?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/anatomy-aware-mim)
-6. *Beyond Visual Realism: The Neuro-Fidelity Index for Validating Geometric Integrity in Synthetic Brain MRI*. To appear in *MICCAI Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI 2026)*.
+6. *Beyond Visual Realism: The Neuro-Fidelity Index for Validating Geometric Integrity in Synthetic Brain MRI*. To appear in *MICCAI Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI 2026)*. ![🔗 Poster](https://img.shields.io/badge/🔗%20Poster%20(Coming%20Soon)-4568A0?style=flat-square)
+7. ⭐ 3D Brain MRI Foundation Model (under review)
 
 #### International Journal
 
