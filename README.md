@@ -64,29 +64,29 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 
 #### International Conference
 
-1. Jo, H., Lee, J., Park, H. W., Kim, M., **Kim, Y.**, & Lee, W. H. (2023). Developing an Integrated Dashboard to Analyze Multimodal Data for User Experience Evaluation. In *IEEE ICCE-Asia 2023* (pp. 1–4). IEEE.
-2. ⭐ **Kim, Y.**, Lee, J., Han, J. H., Kim, M., Lee, H., & Lee, W. H. (2024). Agentic LLM Workflows for Personalized User Experience Questionnaire Generation. In *IEEE ICCE-Asia 2024* (pp. 1–4). IEEE. [![🔗 Poster](https://img.shields.io/badge/🔗%20Poster-4568A0?style=flat-square)](<poster/[ICCE-Asia 2024] Agentic LLM Workflows for Personalized User Experience Questionnaire Generation.pdf>) [![dusdnKR/UEQ-mLLM](https://img.shields.io/badge/dusdnKR%2FUEQ--mLLM-404040?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/UEQ-mLLM)
-3. Lee, J., Han, J., Kim, M., **Kim, Y.**, Kim, T. S., & Lee, W. H. (2025). The Impact of MRI Data Harmonization on Brain Age Prediction. In *IEEE ICAIIC 2025* (pp. 348–352). IEEE.
-4. ⭐ **Kim, Y.**, Lee, M. J., & Lee, W. H. (2025). EEG-Informed Adaptive User Experience Questionnaire Generation with Multi-Agent Large Language Models. In *IEEE/IEIE ICCE-Asia 2025* (pp. 1–5). IEEE. [![🔗 Poster](https://img.shields.io/badge/🔗%20Poster-4568A0?style=flat-square)](<poster/[ICCE-Asia 2025] EEG-Informed Adaptive User Experience Questionnaire Generation with Multi-Agent Large Language Models.pdf>)
-5. ⭐ **Kim, Y.**, & Lee, W. H. (2026). Anatomy-Aware Masked Image Modeling for Self-Supervised Learning on 3D Brain MRI. In *9th Annual Conference on Cognitive Computational Neuroscience (CCN 2026)*. [![🔗 Poster](https://img.shields.io/badge/🔗%20Poster-4568A0?style=flat-square)](<poster/[CCN 2026] Anatomy-Aware Masked Image Modeling for Self-Supervised Learning on 3D Brain MRI.pdf>) [![dusdnKR/anatomy-aware-mim](https://img.shields.io/badge/dusdnKR%2Fanatomy--aware--mim-404040?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/anatomy-aware-mim)
-6. Lee, W. H., Choi, Y., **Kim, Y.**, & Park, H. J. Beyond Visual Realism: The Neuro-Fidelity Index for Validating Geometric Integrity in Synthetic Brain MRI. [![🔗 Poster](https://img.shields.io/badge/🔗%20Poster-4568A0?style=flat-square)](<poster/[SASHIMI 2026] Beyond Visual Realism The Neuro-Fidelity Index for Validating Geometric Integrity in Synthetic Brain MRI.pdf>)
+1. Lee, W. H., Choi, Y., **Kim, Y.**, & Park, H. J. Beyond Visual Realism: The Neuro-Fidelity Index for Validating Geometric Integrity in Synthetic Brain MRI. [![🔗 Poster](https://img.shields.io/badge/🔗%20Poster-4568A0?style=flat-square)](<poster/[SASHIMI 2026] Beyond Visual Realism The Neuro-Fidelity Index for Validating Geometric Integrity in Synthetic Brain MRI.pdf>)
+2. ⭐ **Kim, Y.**, & Lee, W. H. (2026). Anatomy-Aware Masked Image Modeling for Self-Supervised Learning on 3D Brain MRI. In *9th Annual Conference on Cognitive Computational Neuroscience (CCN 2026)*. [![🔗 Poster](https://img.shields.io/badge/🔗%20Poster-4568A0?style=flat-square)](<poster/[CCN 2026] Anatomy-Aware Masked Image Modeling for Self-Supervised Learning on 3D Brain MRI.pdf>) [![dusdnKR/anatomy-aware-mim](https://img.shields.io/badge/dusdnKR%2Fanatomy--aware--mim-404040?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/anatomy-aware-mim)
+3. ⭐ **Kim, Y.**, Lee, M. J., & Lee, W. H. (2025). EEG-Informed Adaptive User Experience Questionnaire Generation with Multi-Agent Large Language Models. In *IEEE/IEIE ICCE-Asia 2025* (pp. 1–5). IEEE. [![🔗 Poster](https://img.shields.io/badge/🔗%20Poster-4568A0?style=flat-square)](<poster/[ICCE-Asia 2025] EEG-Informed Adaptive User Experience Questionnaire Generation with Multi-Agent Large Language Models.pdf>)
+4. Lee, J., Han, J., Kim, M., **Kim, Y.**, Kim, T. S., & Lee, W. H. (2025). The Impact of MRI Data Harmonization on Brain Age Prediction. In *IEEE ICAIIC 2025* (pp. 348–352). IEEE.
+5. ⭐ **Kim, Y.**, Lee, J., Han, J. H., Kim, M., Lee, H., & Lee, W. H. (2024). Agentic LLM Workflows for Personalized User Experience Questionnaire Generation. In *IEEE ICCE-Asia 2024* (pp. 1–4). IEEE. [![🔗 Poster](https://img.shields.io/badge/🔗%20Poster-4568A0?style=flat-square)](<poster/[ICCE-Asia 2024] Agentic LLM Workflows for Personalized User Experience Questionnaire Generation.pdf>) [![dusdnKR/UEQ-mLLM](https://img.shields.io/badge/dusdnKR%2FUEQ--mLLM-404040?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/UEQ-mLLM)
+6. Jo, H., Lee, J., Park, H. W., Kim, M., **Kim, Y.**, & Lee, W. H. (2023). Developing an Integrated Dashboard to Analyze Multimodal Data for User Experience Evaluation. In *IEEE ICCE-Asia 2023* (pp. 1–4). IEEE.
 7. ⭐ 3D Brain MRI Foundation Model (under review)
 8. FOMO26 Challenge Paper (Coming Soon)
 
 #### International Journal
 
-1. Joo, S. W., Lee, J., Han, J., Kim, M., **Kim, Y.**, Lee, H., ... & Lee, W. H. (2025). Disparities in accelerated brain aging in recent-onset and chronic schizophrenia. *Psychological Medicine*, *55*, e60.
-2. Han, J., Kim, M., **Kim, Y.**, & Lee, W. H. (2025). Self-Reflective Chest X-Ray Report Generation with Clinical-Aware Detection and Multilevel Readability. *Journal of Medical Systems*, *49*(1), 190.
+1. Han, J., Kim, M., **Kim, Y.**, & Lee, W. H. (2025). Self-Reflective Chest X-Ray Report Generation with Clinical-Aware Detection and Multilevel Readability. *Journal of Medical Systems*, *49*(1), 190.
+2. Joo, S. W., Lee, J., Han, J., Kim, M., **Kim, Y.**, Lee, H., ... & Lee, W. H. (2025). Disparities in accelerated brain aging in recent-onset and chronic schizophrenia. *Psychological Medicine*, *55*, e60.
 
 #### Domestic Conference
 
-1. ⭐ **김연우**, 한주혁, 김민재, 박지후, & 이원희. (2024). 의료 영상 보고서 검색을 위한 정렬이 필요 없는 멀티모달 검색 증강 생성 방법. *한국정보과학회 학술발표논문집*, 2227–2229. [![🔗 Poster](https://img.shields.io/badge/🔗%20Poster-4568A0?style=flat-square)](<poster/[KCC 2024] 의료 영상 보고서 검색을 위한 정렬이 필요 없는 멀티모달 검색 증강 생성 방법.pdf>) ![🏆 KCC 2024 학부생부문 장려상](https://img.shields.io/badge/🏆%20KCC%202024%20학부생부문%20장려상-FFD700?style=flat-square)
-2. 온유나, 한주혁, 김민재, **김연우**, & 이원희. (2024). 한국어 문서의 표 텍스트 정보 추출을 위한 표 인식 도구의 비교 분석. *한국정보과학회 학술발표논문집*, 1940–1942.
+1. 박현준, 김경훈, 김민재, **김연우**, 이준혁, & 이원희. (2025). 소형 언어 모델의 환자 친화적 방사선 보고서 요약을 위한 자기 개선 프레임워크 적용 및 성능 분석. *한국정보과학회 학술발표논문집*, 2272–2274.
+2. 김경훈, 박현준, 김민재, **김연우**, 이준혁, & 이원희. (2025). 바이오메디컬 문헌의 대중 친화적 요약 성능 향상을 위한 용어 정의 기반 Prompt 전략 방법. *한국정보과학회 학술발표논문집*, 2227–2229.
 3. 김민재, 한주혁, **김연우**, & 이원희. (2024). Self-Reflective 대규모 언어 모델을 이용한 환자 중심 의료 보고서 생성 모델 개발. *한국정보과학회 학술발표논문집*, 701–703.
-4. 박지후, 김민재, **김연우**, & 이원희. (2024). 휴지기 기능적 MRI 데이터를 이용한 정신 질환 환자의 뇌 기능적 연결성과 인지 기능의 상관 분석. *한국정보과학회 학술발표논문집*, 2221–2223. ![🏆 KCC 2024 학부생부문 장려상](https://img.shields.io/badge/🏆%20KCC%202024%20학부생부문%20장려상-FFD700?style=flat-square)
-5. ⭐ **김연우**, 한주혁, 김민재, & 이원희. (2024). 대규모 언어 모델을 이용한 언어적 피드백 기반 환자 친화적 방사선 보고서 생성. *한국정보과학회 학술발표논문집*, 1514–1516. [![🔗 Poster](https://img.shields.io/badge/🔗%20Poster-4568A0?style=flat-square)](<poster/[KSC 2024] 대규모 언어 모델을 이용한 언어적 피드백 기반 환자 친화적 방사선 보고서 생성.pdf>)
-6. 박현준, 김경훈, 김민재, **김연우**, 이준혁, & 이원희. (2025). 소형 언어 모델의 환자 친화적 방사선 보고서 요약을 위한 자기 개선 프레임워크 적용 및 성능 분석. *한국정보과학회 학술발표논문집*, 2272–2274.
-7. 김경훈, 박현준, 김민재, **김연우**, 이준혁, & 이원희. (2025). 바이오메디컬 문헌의 대중 친화적 요약 성능 향상을 위한 용어 정의 기반 Prompt 전략 방법. *한국정보과학회 학술발표논문집*, 2227–2229.
+4. ⭐ **김연우**, 한주혁, 김민재, & 이원희. (2024). 대규모 언어 모델을 이용한 언어적 피드백 기반 환자 친화적 방사선 보고서 생성. *한국정보과학회 학술발표논문집*, 1514–1516. [![🔗 Poster](https://img.shields.io/badge/🔗%20Poster-4568A0?style=flat-square)](<poster/[KSC 2024] 대규모 언어 모델을 이용한 언어적 피드백 기반 환자 친화적 방사선 보고서 생성.pdf>)
+5. ⭐ **김연우**, 한주혁, 김민재, 박지후, & 이원희. (2024). 의료 영상 보고서 검색을 위한 정렬이 필요 없는 멀티모달 검색 증강 생성 방법. *한국정보과학회 학술발표논문집*, 2227–2229. [![🔗 Poster](https://img.shields.io/badge/🔗%20Poster-4568A0?style=flat-square)](<poster/[KCC 2024] 의료 영상 보고서 검색을 위한 정렬이 필요 없는 멀티모달 검색 증강 생성 방법.pdf>) ![🏆 KCC 2024 학부생부문 장려상](https://img.shields.io/badge/🏆%20KCC%202024%20학부생부문%20장려상-FFD700?style=flat-square)
+6. 온유나, 한주혁, 김민재, **김연우**, & 이원희. (2024). 한국어 문서의 표 텍스트 정보 추출을 위한 표 인식 도구의 비교 분석. *한국정보과학회 학술발표논문집*, 1940–1942.
+7. 박지후, 김민재, **김연우**, & 이원희. (2024). 휴지기 기능적 MRI 데이터를 이용한 정신 질환 환자의 뇌 기능적 연결성과 인지 기능의 상관 분석. *한국정보과학회 학술발표논문집*, 2221–2223. ![🏆 KCC 2024 학부생부문 장려상](https://img.shields.io/badge/🏆%20KCC%202024%20학부생부문%20장려상-FFD700?style=flat-square)
 
 ---
 
