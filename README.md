@@ -56,7 +56,7 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 
 ### Projects
 
-**KoEDUGPT** — GPT-powered chatbot providing accurate, up-to-date information about South Korea's college admission system, [edub.kr](https://www.edub.kr). Founding member (Sep 2023) → sole maintainer & developer (present). [![dusdnKR/koedugpt](https://img.shields.io/badge/dusdnKR%2Fkoedugpt-404040?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/koedugpt)
+**KoEDUGPT** — GPT-powered chatbot providing accurate, up-to-date information about South Korea's college admission system, [edub.kr](https://www.edub.kr). Founding member (Sep 2023) → sole maintainer & developer (present). [![dusdnKR/koedugpt](https://img.shields.io/badge/dusdnKR%2Fkoedugpt-404040?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/koedugpt) [![📰 Press](https://img.shields.io/badge/📰%20Press-8B0029?style=flat-square)](https://edu.donga.com/news/articleView.html?idxno=97784)
 
 ---
 
@@ -71,7 +71,7 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 5. ⭐ **Kim, Y.**, Lee, J., Han, J. H., Kim, M., Lee, H., & Lee, W. H. (2024, November). Agentic LLM Workflows for Personalized User Experience Questionnaire Generation. In *2024 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)* (pp. 1-4). IEEE. [![🔗 Poster](https://img.shields.io/badge/🔗%20Poster-4568A0?style=flat-square)](<poster/[ICCE-Asia 2024] Agentic LLM Workflows for Personalized User Experience Questionnaire Generation.pdf>) [![dusdnKR/UEQ-mLLM](https://img.shields.io/badge/dusdnKR%2FUEQ--mLLM-404040?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/UEQ-mLLM)
 6. Jo, H., Lee, J., Park, H. W., Kim, M., **Kim, Y.**, & Lee, W. H. (2023, October). Developing an Integrated Dashboard to Analyze Multimodal Data for User Experience Evaluation. In *2023 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)* (pp. 1-4). IEEE.
 7. ⭐ **Kim, Y.**, & Lee, W. H. 3D Brain MRI Foundation Model (under review)  
-8. FOMO26 Challenge Paper (Coming Soon)
+8. FOMO26 Challenge Paper (Coming Soon) [![📰 Press](https://img.shields.io/badge/📰%20Press-8B0029?style=flat-square)](https://news.khu.ac.kr/news_kor/user/webzine/gType.do?wcId=4300)
 
 #### International Journal
 
