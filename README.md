@@ -96,10 +96,10 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 
 | # | Title | Reg. No. |
 |:-:|-------|:--------:|
-| 1 | **등록 진행 중**<br><sub>진행 중</sub> | `C-2026` |
-| 2 | **등록 진행 중**<br><sub>진행 중</sub> | `C-2026` |
-| 3 | **등록 진행 중**<br><sub>진행 중</sub> | `C-2026` |
-| 4 | **등록 진행 중**<br><sub>진행 중</sub> | `C-2026` |
+| 1 | **대규모 언어 모델 기반 의료 의사결정 모델 학습 프로그램**<br><sub>LLM-Based Medical Decision-Making Model Training Program</sub> | `C-2026-073498` |
+| 2 | **기억 기반 다중 에이전트 학습 및 의료 진단 시뮬레이션 프로그램**<br><sub>Memory-Based Multi-Agent Learning and Medical Diagnosis Simulation Program</sub> | `C-2026-073474` |
+| 3 | **해부학적 영역 마스킹을 이용한 뇌 자기공명영상 자기지도학습 프로그램**<br><sub>Self-Supervised Learning Program for Brain MRI Using Anatomical Region Masking</sub> | `C-2026-073473` |
+| 4 | **해부학적 다중 과제 학습과 자기 증류를 이용한 뇌 자기공명영상 특징 학습 프로그램**<br><sub>Brain MRI Feature Learning Program Using Anatomical Multi-Task Learning and Self-Distillation</sub> | `C-2026-073472` |
 | 5 | **다중 에이전트 대규모 언어 모델 기반 뇌파 활용 사용자 경험 설문지 생성 프로그램**<br><sub>EEG-Based UX Questionnaire Generation Program Using Multi-Agent LLM</sub> | `C-2025-042582` |
 | 6 | **대규모 언어 모델을 이용한 개인 맞춤형 사용자 경험 설문지 생성 프로그램**<br><sub>Personalized UX Questionnaire Generation Program Using LLM</sub> | `C-2025-042581` |
 | 7 | **멀티모달 사용자 경험 평가 분석 도구**<br><sub>Multimodal User Experience Evaluation Analysis Tool</sub> | `C-2023-053985` |
