@@ -80,7 +80,7 @@ I am a graduate researcher at AIMS Lab, Kyung Hee University, where I have been 
 
 #### Domestic Conference
 
-1. ⭐ **김연우**, 박현준, & 이원희. (2026). 메모리 기반 Self-Evolving 멀티 에이전트 학습 기법 및 의료 진단 시뮬레이션 환경 개발. *한국정보과학회 학술발표논문집*.
+1. ⭐ **김연우**, 박현준, & 이원희. (2026). 메모리 기반 Self-Evolving 멀티 에이전트 학습 기법 및 의료 진단 시뮬레이션 환경 개발. *한국정보과학회 학술발표논문집*. [![dusdnKR/little-hospital](https://img.shields.io/badge/dusdnKR%2Flittle--hospital-404040?style=flat-square&logo=github&logoColor=white)](https://github.com/dusdnKR/little-hospital)
 2. 박현준, **김연우**, & 이원희. (2026). 의료 과제에서 대규모 언어 모델 기반 의사결정 미세조정의 성능 평가. *한국정보과학회 학술발표논문집*.
 3. 박현준, 김경훈, 김민재, **김연우**, 이준혁, & 이원희. (2025). 소형 언어 모델의 환자 친화적 방사선 보고서 요약을 위한 자기 개선 프레임워크 적용 및 성능 분석. *한국정보과학회 학술발표논문집*, 2272–2274.
 4. 김경훈, 박현준, 김민재, **김연우**, 이준혁, & 이원희. (2025). 바이오메디컬 문헌의 대중 친화적 요약 성능 향상을 위한 용어 정의 기반 Prompt 전략 방법. *한국정보과학회 학술발표논문집*, 2227–2229.
